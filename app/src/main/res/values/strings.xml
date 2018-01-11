@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ImproveGroupeTask</string>
+    <string name="my_application">My Application</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="view">View</string>
+    <string name="counter">%1$d/12</string>
+    <string name="invalid_mail">Email not correct.</string>
+    <string name="invalid_phone">Enter your phone.</string>
+    <string name="invalid_password">Password must contain letters and numbers.</string>
+    <string name="error_photo">You should add photo.</string>
+    <string name="send_by_email">SEND BY EMAIL</string>
+</resources>
